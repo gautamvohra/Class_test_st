@@ -1,0 +1,3 @@
+Set-01 
+Q1.print all non-reapeated numbers in an array
+Q2.print all repeated numbers with their frequency
